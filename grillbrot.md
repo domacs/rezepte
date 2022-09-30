@@ -1,16 +1,16 @@
 Grillbrot
 
 # Zutaten
-|     Zutaten        |     Menge     |
-|--------------------|---------------|
-| Weizenmehl         |       350,0 g |
-| Hartweizengrieß    |        65,0 g |
-| Wasser             |       250,0 g |
-| Salz               |         8,5 g |
-| Hefe               |         3,5 g |
-| Joghurt            |        40,0 g |
-| Backmalz           |         4,0 g |
-| Roggenvollkornmehl |        100,0g |
+| Zutaten | Menge |
+| :--- | ---: |
+| Weizenmehl | 350,0 g |
+| Hartweizengrieß | 65,0 g |
+| Wasser | 250,0 g |
+| Salz | 8,5 g |
+| Hefe | 3,5 g |
+| Joghurt | 40,0 g |
+| Backmalz | 4,0 g |
+| Roggenvollkornmehl | 100,0g |
 
 # Anleitung
 - Hefe in 50g Wasser auflösen
