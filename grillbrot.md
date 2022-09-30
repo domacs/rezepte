@@ -1,6 +1,6 @@
-Grillbrot
+# Grillbrot
 
-# Zutaten
+## Zutaten
 | Zutaten | Menge |
 | :--- | ---: |
 | Weizenmehl | 350,0 g |
@@ -12,7 +12,7 @@ Grillbrot
 | Backmalz | 4,0 g |
 | Roggenvollkornmehl | 100,0g |
 
-# Anleitung
+## Anleitung
 - Hefe in 50g Wasser auflösen
 - 200g Wasser mit 50g Mehl glattrühren und erhitzen bis es eine Art Pudding ergibt
 - Alle Zutaten 10-12 Minuten zu einem glatten Teig verrühren
